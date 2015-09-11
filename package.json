@@ -1,0 +1,28 @@
+{
+  "name": "pexec",
+  "version": "0.1.0",
+  "description": "Invokes a process inside a promise and returns stdout, stderr in resolution.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "exec",
+    "process",
+    "stderr",
+    "stdout",
+    "promise"
+  ],
+  "dependencies": {
+    "promise": "^7.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0"
+  },
+  "author": {
+    "name": "Naive Roboticist",
+    "email": "naiveroboticist@gmail.com"
+  },
+  "license": "MIT",
+  "readme": "README.md"
+}
