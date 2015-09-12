@@ -1,6 +1,10 @@
 {
   "name": "pexec",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FellowRoboticists/pexec.git"
+  },
   "description": "Invokes a process inside a promise and returns stdout, stderr in resolution.",
   "main": "./lib/index.js",
   "scripts": {
