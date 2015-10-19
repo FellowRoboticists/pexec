@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/FellowRoboticists/pexec.svg?branch=master)](https://travis-ci.org/FellowRoboticists/pexec)
 # pexec
 
 An npm module that allows you to invoke a child process (via require('child_process').exec) within the
